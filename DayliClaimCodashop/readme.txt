@@ -14,12 +14,12 @@ Este código tiene como objetivo mostrar cómo la automatización de páginas pu
 
 Como usar (utilizar o Chrome):
 Atualize o Chromedriver para a versão mais recente;
-Inserir os dados da conta (IUD);
-Executar o .bat
+Instrução 1: vá na codashop, insira seu uid, confirme, copie e cole a URL;
+Executar o .bat. 
 
 How to use (using Chrome):
 Update Chromedriver to the latest version;
-Enter your account details (IUD);
+instruction 1: Go to CodaShop, enter your UID, confirm, copy and paste the URL;
 Inside the .bat file, change "presenteDiario" to "DayliGift"
 Run the .bat file.
 
@@ -27,6 +27,6 @@ Run the .bat file.
 
 Cómo usar (utilizando Chrome):
 Actualiza Chromedriver a la versión más reciente;
-Introduce los datos de la cuenta (IUD);
+Instrucción 1: Ve a CodaShop, introduce tu UID, confirma, y ​​copia y pega la URL;
 Dentro del .bat, cambia "presenteDiario" por "regaloDiario";
 Ejecuta el archivo .bat
